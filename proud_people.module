@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the proud_people feature.
+ */
+
+include_once 'proud_people.features.inc';
